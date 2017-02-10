@@ -1,10 +1,5 @@
 #include "stdafx.h"
 #include <string>
-#include <cmath>
-#include <vector>
-#include <iterator>
-#include <algorithm>
-#include <functional>
 #include <iostream>
 using namespace std;
 
